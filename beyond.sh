@@ -91,5 +91,5 @@ fi
 	beyondteam
 	logo_play
 	#sudo service redis-server restart
-	./libs/tgcli -s ./bot/bot..lua $@
+	./libs/tgcli -s ./bot/bot.lua $@
 fi
